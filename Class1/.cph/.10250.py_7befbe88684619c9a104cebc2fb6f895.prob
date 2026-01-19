@@ -1,0 +1,1 @@
+{"name":"Local: 10250","url":"c:\\500_BaekJoon\\Class1\\10250.py","tests":[{"id":1768799710128,"input":"2\n6 12 10\n30 50 72","output":"402\n1203"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\500_BaekJoon\\Class1\\10250.py","group":"local","local":true}

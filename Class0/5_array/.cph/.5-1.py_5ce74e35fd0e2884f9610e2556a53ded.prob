@@ -1,0 +1,1 @@
+{"name":"Local: 5-1","url":"c:\\500_BaekJoon\\5_array\\5-1.py","tests":[{"id":1768736509177,"input":"10 5\n1 10 4 9 2 3 8 5 7 6","output":"1 4 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\500_BaekJoon\\5_array\\5-1.py","group":"local","local":true}
