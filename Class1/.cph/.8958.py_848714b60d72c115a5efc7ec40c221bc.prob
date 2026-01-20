@@ -1,0 +1,1 @@
+{"name":"Local: 8958","url":"c:\\500_BaekJoon\\Class1\\8958.py","tests":[{"id":1768911703569,"input":"5\nOOXXOXXOOO\nOOXXOOXXOO\nOXOXOXOXOXOXOX\nOOOOOOOOOO\nOOOOXOOOOXOOOOX","output":"10\n9\n7\n55\n30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\500_BaekJoon\\Class1\\8958.py","group":"local","local":true}
